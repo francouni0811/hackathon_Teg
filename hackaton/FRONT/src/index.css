@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Spectral:wght@400;600&display=swap");
+
+:root {
+  font-family: "Spectral", "Palatino Linotype", serif;
+  line-height: 1.35;
+  font-weight: 400;
+  color: #2b2117;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+.label,
+.phase-pill,
+button {
+  font-family: "Cinzel", "Georgia", serif;
+}
